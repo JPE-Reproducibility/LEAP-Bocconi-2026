@@ -38,7 +38,7 @@ date-format: "D MMMM, YYYY"
 ## What is Required from Authors?
 
 * Most (all?) journals require authors to share code and data.
-* Only 17 (!) journals endorse the [Data and Code Availability Standard](https://datacodestandard.org) and enforce it via a Data Editor.
+* Only 19 (!) journals endorse the [Data and Code Availability Standard](https://datacodestandard.org) and enforce it via a Data Editor.
 
 ::: {.fragment}
 
