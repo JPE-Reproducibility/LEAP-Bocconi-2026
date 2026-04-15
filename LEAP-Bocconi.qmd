@@ -1,9 +1,9 @@
 ---
 title: Reproducibility Workshop
-# title-slide-attributes:
-#   data-background-image: img/RES-logo_WHITE copy.png
-#   data-background-size: 15%
-#   data-background-position: 60% 52%
+title-slide-attributes:
+  data-background-image: img/jpe.jpg
+  data-background-size: 15%
+  data-background-position: 60% 52%
 format: 
   revealjs:
     theme: _extensions/grantmcdermott/clean/clean.scss
