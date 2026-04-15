@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+*.html
+LEAP-Bocconi_files/
+
+**/*.quarto_ipynb

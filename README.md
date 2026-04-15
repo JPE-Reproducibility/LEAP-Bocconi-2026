@@ -1,0 +1,12 @@
+# Reproducibility workshop LEAP Bocconi
+
+This is the source code for the slide show for the reproducibility workshop at LEAP Bocconi. This will be shown alongside the repository at 
+
+https://github.com/floswald/ReproWorkshop
+
+where the 10 commits correspond to the *10 steps* of the workshop.
+
+## How to build the slides
+
+* Get [quarto](https://quarto.org/docs/get-started/) and compile.
+* Deployment uses `quarto publish gh-pages` with local build - no CI needed.
