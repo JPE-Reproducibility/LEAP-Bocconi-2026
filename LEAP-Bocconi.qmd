@@ -3,7 +3,7 @@ title: Reproducibility Workshop
 title-slide-attributes:
   data-background-image: img/jpe.jpg
   data-background-size: 15%
-  data-background-position: 60% 52%
+  data-background-position: 75% 25%
 format: 
   revealjs:
     theme: _extensions/grantmcdermott/clean/clean.scss
@@ -19,6 +19,10 @@ author:
     orcid: 0000-0001-7737-2038
     email: jpe.dataeditor@gmail.com
     affiliations: Uni Turin, Collegio Carlo Alberto, JPE Data Editor
+  - name: Elian
+    orcid: 0000-0000-0000-0000
+    email: email
+    affiliations: Uni
 subtitle: "[LEAP Bocconi](https://JPE-Reproducibility.github.io/LEAP-Bocconi-2026/)"
 date: last-modified
 date-format: "D MMMM, YYYY"
@@ -736,7 +740,7 @@ Such mechanisms can reduce version conflicts amongst your dependencies. To the e
 
 
 
-# Why Does This Matter? 🌍 {background-color="#40666e"}
+# Why Does This Matter? 🌍 <br> Elian Taking Over {background-color="#40666e"}
 
 ## A Growing Professional Market
 
@@ -768,6 +772,10 @@ The skills covered today — Stata, R, version control, documentation — are ex
 
 ::: {.fragment}
 👉 Replicators are the human check that automated tools cannot replace.
+:::
+
+::: {.fragment}
+Not yet. 😬
 :::
 
 # Inside the JPE Replication Process 🔬 {background-color="#40666e"}
