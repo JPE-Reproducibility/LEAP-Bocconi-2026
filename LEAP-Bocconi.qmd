@@ -881,6 +881,12 @@ These are not rare edge cases — they are the most common reasons a replication
 
 10 Steps till Reproducibility
 
+::: {.r-fit-text}
+[**https://github.com/floswald/ReproWorkshop**](https://github.com/floswald/ReproWorkshop)
+:::
+
+
+
 
 ## Step 1: Project Setup and Data Acquisition
 
@@ -892,6 +898,8 @@ These are not rare edge cases — they are the most common reasons a replication
     * copy data into `data/raw`
     * set data to read only
   
+* Follow along at [https://github.com/floswald/ReproWorkshop](https://github.com/floswald/ReproWorkshop)
+
 ## Step 2: Stata Setup
 
 * Create folder `code/stata`
