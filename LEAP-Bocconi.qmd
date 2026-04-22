@@ -20,9 +20,8 @@ author:
     email: jpe.dataeditor@gmail.com
     affiliations: Uni Turin, Collegio Carlo Alberto, JPE Data Editor
   - name: Elian
-    orcid: 0000-0000-0000-0000
-    email: email
-    affiliations: Uni
+    email: eliangiordano@ub.edu
+    affiliations: Institut d'Economia de Barcelona
 subtitle: "[LEAP Bocconi](https://JPE-Reproducibility.github.io/LEAP-Bocconi-2026/)"
 date: last-modified
 date-format: "D MMMM, YYYY"
